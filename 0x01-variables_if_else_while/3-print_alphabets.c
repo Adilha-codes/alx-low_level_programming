@@ -3,11 +3,11 @@
 #include <stdio.h>
 
 /**
- * main - entry point
- *
- * Description: alphabet
- *
- * Return: 0 (Success)
+* main - entry point
+*
+* Description: alphabet
+*
+* Return: 0 (Success)
 */
 
 int main(void)
@@ -22,11 +22,10 @@ int main(void)
 	}
 
 	while (CH <= 'Z')
-        {
+	{
 		putchar(CH);
 		CH++;
 	}
 	putchar('\n');
-
 	return (0);
 }
