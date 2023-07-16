@@ -5,7 +5,7 @@
 /**
 * main - entry point
 *
-* Description: alphabet
+* Description: alphabetsss
 *
 * Return: 0 (Success)
 */
