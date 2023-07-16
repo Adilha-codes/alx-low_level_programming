@@ -5,7 +5,7 @@
 /**
 * main - entry point
 *
-* Description: numberzzz
+* Description: numberz
 *
 * Return: 0 (Success)
 */
@@ -13,10 +13,10 @@
 int main(void)
 {
 	int digit = 0;
-	
+
 	while (digit <= 9)
 	{
-        	putchar(digit + '0');
+		putchar(digit + '0');
 		digit++;
 	}
 	printf("\n");
