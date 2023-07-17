@@ -4,13 +4,13 @@
 /**
 * main - entry point
 *
-* Description: reverse alp
+* Description: print_tebahpla.c
 *
 * Return: 0 (Success)
 */
 
 int main(void)
-i{
+{
 	char ch = 'z';
 	
 	while (ch >= 'a')
